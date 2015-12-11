@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Complete Sample</string>
+    <string name="input_form_hint">コメントを入力</string>
+    <string name="suggest_prefix">投稿</string>
+</resources>
